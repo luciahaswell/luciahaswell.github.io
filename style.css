@@ -2,15 +2,15 @@
     font-family:georgia;
 }
 header{
-    background-color: rgb(150, 189, 150);
+    background-color: #C398BB;
     /*background-image: url("https://thegardeningcook.com/wp-content/uploads/2020/06/shasta-daisy-fb.jpg");*/
     margin: 10px;
     border:solid;
-    border-color:rgb(14, 58, 14);
+    border-color:#461123;
 }
 
 body{
-    background-color: rgb(241, 222, 196);
+    background-color: #F2D4DD;
     color:rgb(51, 12, 12);
 }
 
@@ -18,7 +18,7 @@ body{
     font-family: arial;
     font-weight: 900;
     font-size: 50px;
-    color:rgb(14, 58, 14);
+    color:#34270A;
     margin-left: 50px;
     margin-right: 50px;
     padding-top: 20px;
@@ -44,11 +44,11 @@ body{
 }
 
 .section h2{
-    color:green;
+    color:black;
 }
 
 .profile-pic{
     border-radius:50%;
     border: solid;
-    border-color: rgb(14, 58, 14);;
+    border-color: #461123;
 }
