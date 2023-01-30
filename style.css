@@ -1,24 +1,30 @@
 *{
     font-family:georgia;
 }
+
+html{
+  background-image: url("https://www.drool-art.com/wp-content/uploads/2020/11/KTSE-by-Van-Vuuren.jpg");
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
 header{
-    background-color: #C398BB;
-    /*background-image: url("https://thegardeningcook.com/wp-content/uploads/2020/06/shasta-daisy-fb.jpg");*/
-    margin: 10px;
-    border:solid;
-    border-color:#461123;
+    
 }
 
 body{
-    background-color: #F2D4DD;
-    color:rgb(51, 12, 12);
+    background-color: rgb(47, 47, 61);
+    color:rgb(255, 255, 255);
+    margin: 80px;
+    padding: 20px;
 }
 
 .name{
     font-family: arial;
     font-weight: 900;
     font-size: 50px;
-    color:#34270A;
+    color:rgb(197, 87, 9);
     margin-left: 50px;
     margin-right: 50px;
     padding-top: 20px;
@@ -35,7 +41,7 @@ body{
 }
 
 .about{
-    color:rgb(51, 12, 12);
+    color:rgb(255, 255, 255);
 }
 
 .contact{
@@ -44,11 +50,15 @@ body{
 }
 
 .section h2{
-    color:black;
+    color:rgb(108, 171, 208);
 }
 
 .profile-pic{
     border-radius:50%;
     border: solid;
-    border-color: #461123;
+    border-color: rgb(255, 255, 255);;
+}
+
+h4{
+    color:rgb(164, 223, 157)
 }
