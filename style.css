@@ -63,3 +63,18 @@ body{
 h4{
     color:rgb(164, 223, 157)
 }
+
+a{
+    color: #F496EF;
+}
+
+a:active{
+    color:red;   
+}
+
+
+a:visited{
+    color: #8BC8B7;
+}
+   
+    
